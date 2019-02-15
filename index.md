@@ -10,7 +10,7 @@ humandate: "Apr 2-3, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-04-02
 enddate: 2019-04-03
-instructor: ["Ravi Pandey", "Dave Mellert"]
+instructor: ["Minji Kim", "Ravi Pandey", "Dave Mellert", "Samir Amin"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
