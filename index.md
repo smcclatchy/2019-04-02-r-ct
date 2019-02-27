@@ -10,7 +10,7 @@ humandate: "Apr 2-3, 2019"
 humantime: "9:00 am - 4:30 pm"
 startdate: 2019-04-02
 enddate: 2019-04-03
-instructor: ["Minji Kim", "Ravi Pandey", "Dave Mellert", "Samir Amin"]
+instructor: ["Lucas Lochovsky", "Minji Kim", "Ravi Pandey", "Dave Mellert", "Aaron Zhang", "Samir Amin", "Sue McClatchy"]
 helper: ["FIXME"]     # boxed, comma-separated list of helpers' names, like ["Marlyn Wescoff", "Fran Bilas", "Ruth Lichterman"]
 email: ["susan.mcclatchy@jax.org"]
 collaborative_notes:             # optional: URL for the workshop collaborative notes, e.g. an Etherpad or Google Docs document
@@ -125,7 +125,7 @@ Modify the block below if there are any special requirements.
 {% endcomment %}
 <p id="requirements">
   <strong>Requirements:</strong> Participants must bring a laptop with a
-  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.) that they have administrative privileges. They should have a few specific software packages installed (listed <a href="#setup">below</a>). 
+  Mac, Linux, or Windows operating system (not a tablet, Chromebook, etc.). They should have a few specific software packages installed (listed <a href="#setup">below</a>). 
   on.
 </p>
 
@@ -133,7 +133,7 @@ Modify the block below if there are any special requirements.
 CODE OF CONDUCT
 {% endcomment %}
 <p id="code-of-conduct">
-<strong>Code of Conduct:</strong>  Everyone who participates in Carpentries activities is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>. This document also outlines how to report an incident if needed.
+<strong>Code of Conduct:</strong>  Everyone who participates is required to conform to the <a href="https://docs.carpentries.org/topic_folders/policies/code-of-conduct.html">Code of Conduct</a>.
 </p>
 
 
