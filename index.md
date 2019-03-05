@@ -284,7 +284,7 @@ please preview your site before committing, and make sure to run
 <li>Creating and using functions</li>
 <li>Loops and conditionals</li>
 <li>Using R from the command line</li>
-<li><a href="{{site.swc_pages}}/r-novice-inflammation/reference/">Reference...</a></li>
+<li><a href="{{site.swc_pages}}/r-novice-gapminder/reference.html">Reference...</a></li>
 </ul>
 </div>
 </table>
