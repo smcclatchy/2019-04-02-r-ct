@@ -204,6 +204,7 @@ to match your plans.  You may also want to change 'Day 1' and 'Day
 <div class="col-md-6">
 <h3>Tuesday, Apr 2</h3>
 <table class="table table-striped">
+<tr> <td>Before</td>  <td><a href="https://www.surveymonkey.com/r/7NGCCT3">Pre-Workshop Survey</a></td> </tr>
 <tr> <td>09:00</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/">Workshop Overview</a></td> </tr>
 <tr> <td>09:30</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/01-rstudio-intro/">Introduction to R and RStudio</a></td> </tr>
 <tr> <td>10:25</td>  <td><a href="http://swcarpentry.github.io/r-novice-gapminder/02-project-intro/">Project Management With RStudio</a></td> </tr>
